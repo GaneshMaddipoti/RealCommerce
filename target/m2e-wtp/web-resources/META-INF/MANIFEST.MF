@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RealCommerce
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ganesmad
+Implementation-Vendor-Id: in.co
+Build-Jdk: 1.8.0_72
+Implementation-URL: http://projects.spring.io/spring-boot/RealCommerce
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

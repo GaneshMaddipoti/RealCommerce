@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+
+@media only screen and (min-width: 993px) {
+	.container {
+		width: 85%;
+	}
+}
+
+header, main, footer {
+	padding-left: 250px;
+}
+
+@media only screen and (max-width : 992px) {
+	header, main, footer {
+		padding-left: 0;
+	}
+}
+
+.codediv {
+	background-color: #f0f8ff;
+	padding-left: 5px;
+	margin: 5px;
+	border: 1px inset;
+	white-space: pre-wrap;
+}
+
+.bgcolor {
+	background-color: #0089ec !important;
+}
+
+table.fullbordered>thead>tr, table.fullbordered>tbody>tr {
+	border: 1px solid #d0d0d0;
+}
+
+.comment {
+	background-color: #d3d3d3;
+	padding: 10px;
+}
+
+.btn {
+	background-color: #0089ec;
+}
+
+.btn:HOVER {
+	background-color: #0089ec;
+	opacity: .8;
+}
+
+.btn:FOCUS {
+	background-color: #0089ec;
+}
+
+.card-150h{
+	height: 150px;
+	cursor: pointer;
+}
